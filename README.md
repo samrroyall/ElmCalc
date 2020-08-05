@@ -1,9 +1,9 @@
-###Information about Project
+### Information about Project
 
-####What I have made
+#### What I have made
   I have made a browser calculator app that is powered by Elm!
 
-####What I did to make it
+#### What I did to make it
 
 **The model: initial thoughts**
   I began by building the skeleton of my program, I devised a model infrastructure,
